@@ -72,3 +72,8 @@ As a developer, the expectation in the context of testing is creating a test tha
         })
     </script>
 ```
+
+Once the dom is loaded, it shows the display and button to initiate the test. When the display is filled and the button is clicked, the function takes the value, creates a new FizzBuzz, checks the value and presents the result.
+
+<h2>Question 9.</h2>  
+<h3>In your README to the best of your knowledge please explain what a CDN (Content Delivery Network) is?</h3>
