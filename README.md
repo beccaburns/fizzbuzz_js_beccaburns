@@ -1,3 +1,17 @@
+<h1> FizzBuzz JavaScript Challenge</h1> 
+<h3>Created by Becca Burns</h3>
+
+The following code allows the user to to play FizzBuzz. If a number if divisible by 3 it replies Fizz, if it's divisible by 5 it replies Buzz, if it's divisible by 15 it replies FizzBuzz.
+
+<h5>Dependencies & Code:</h5>
+NPM, e2e-training-wheels: (chai, superstatic).
+
+<h5>License</h5>
+MIT-license
+
+
+
+
 <h2>Question 1.</h2> 
 <h3>In your README to the best of your knowledge please explain what the following lines of code do.</h3>
 
