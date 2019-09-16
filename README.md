@@ -77,3 +77,5 @@ Once the dom is loaded, it shows the display and button to initiate the test. Wh
 
 <h2>Question 9.</h2>  
 <h3>In your README to the best of your knowledge please explain what a CDN (Content Delivery Network) is?</h3>
+
+A CDN is a global network comprised of servers and datacenters that delivers web-based content. In this exercise, I am using it to utilize pre-developed design to my website.
