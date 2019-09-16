@@ -1,5 +1,6 @@
 <h1> FizzBuzz JavaScript Challenge</h1> 
-<h3>Created by Becca Burns</h3>
+<h3>Created by Becca Burns // Deployed at GitHub Pages</h3>
+https://beccaburns.github.io/fizzbuzz_js_beccaburns/
 
 The following code allows the user to to play FizzBuzz. If a number if divisible by 3 it replies Fizz, if it's divisible by 5 it replies Buzz, if it's divisible by 15 it replies FizzBuzz.
 
