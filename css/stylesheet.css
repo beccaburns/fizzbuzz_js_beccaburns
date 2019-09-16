@@ -1,0 +1,8 @@
+body {
+    background-image: url("https://www.chrislatta.org/images/graphics/backgrounds/solid-backgrounds-teal-008080-4096x2160-TV4K.png?v=20171211195613");
+    background-size: cover;
+}
+
+div.container {
+    opacity: 0.9;
+}
