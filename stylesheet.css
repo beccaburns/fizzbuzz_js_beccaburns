@@ -1,8 +1,28 @@
 body {
     background-image: url("https://www.chrislatta.org/images/graphics/backgrounds/solid-backgrounds-teal-008080-4096x2160-TV4K.png?v=20171211195613");
     background-size: cover;
+    background-opacity: 2.0;
+    padding-top: 100px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
 }
 
 div.container {
     opacity: 0.9;
+}
+
+h1 { 
+  Font-Family: 'Lato', Sans-Serif;
+  Font-Size: 45px;
+}
+
+h3 {
+  Font-Family: 'Lato', Sans-Serif;
+  Font-Size: 16px;
+}
+
+p {
+  Font-Family: 'Slabo 13px', Serif;
+  Font-Size: 55px;
 }
